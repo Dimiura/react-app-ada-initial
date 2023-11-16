@@ -1,0 +1,9 @@
+.secondButton 
+{
+    background-color: cadetblue;
+    color: whitesmoke;
+    padding: 15px;
+    margin:15px;
+    border-radius: 15px;
+    border:none;
+}
